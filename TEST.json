@@ -1,0 +1,12 @@
+{
+    "imię": "Norbert",
+    "nazwisko": "Gierczak",
+    "wiek": 25,
+    "zawód": "Inżynier",
+    "adres": {
+        "ulica": "Wyzwolenia 15",
+        "miasto": "Kraków",
+        "kod_pocztowy": "00-000"
+    },
+    "hobby": ["sport", "czytanie", "Koszykówka"]
+}
